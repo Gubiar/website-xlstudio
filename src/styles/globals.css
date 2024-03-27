@@ -78,6 +78,7 @@
 * {
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
 }
 
 html, body {
