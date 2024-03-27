@@ -17,7 +17,7 @@ export default function PageHome() {
             <div className="bg-gray-50/90 border-b border-gray-200 dark:bg-gray-950 dark:border-gray-800 bg-white w-full">
                 <div className="container py-3.5 px-4 md:px-6 m-auto">
                     <div className="flex items-center justify-between">
-                        <a href="/">
+                        <a href="/" aria-label="Link para a página inicial">
                             <DefaultLogo
                                 className="dark:fill-[white] fill-[black] object-contain"
                                 width={200}
